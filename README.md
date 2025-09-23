@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Shree – IT Talent Acquisition Partner | DevOps • Python • Cloud • AI
 
-<!--
-**nikethangouda-TA/nikethangouda-TA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I specialize in connecting top-tier engineers with transformative roles across financial services, enterprise platforms, and AI-driven systems in North America.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Recruit for senior-level roles: DevOps Architects, Backend Engineers, Frontend Engineers, Fullstack Engineers
+- Focus on cloud-native, secure, and scalable engineering teams
+- Promote ethical hiring, visa compliance, and transparent recruitment practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Hiring Focus
+📍 Location: NYC (Hybrid) & Remote U.S.  
+🎯 Roles:
+- **DevOps Architect** – Terraform, CI/CD, AWS, AI/LLM integration  
+- **Python Backend Engineer** – FastAPI, Django, SQL, Security  
+- **React Frontend Developer** – TypeScript, Redux, UX Optimization
+
+## 🤝 Why Connect With Me?
+I’m not just filling roles—I’m building high-performing teams. Whether you're actively seeking or open to future opportunities, I’d love to connect and explore how your skills align with our mission.
+
+📫 [https://www.linkedin.com/in/nikethan-gouda-444959113/] | 📧 nikethangouda@gmail.com | Nikethan@infowaysoftware.com
+
+---
+
+> “Great teams aren’t found—they’re built. Let’s build yours.”
