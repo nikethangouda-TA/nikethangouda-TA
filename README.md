@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I specialize in connecting top-tier engineers with
 ## 🤝 Why Connect With Me?
 I’m not just filling roles—I’m building high-performing teams. Whether you're actively seeking or open to future opportunities, I’d love to connect and explore how your skills align with our mission.
 
-📫 [https://www.linkedin.com/in/nikethan-gouda-444959113/] | 📧 nikethangouda@gmail.com | Nikethan@infowaysoftware.com
+📫 [https://www.linkedin.com/in/nikethan-gouda-444959113/] | 📧 nikethangouda@gmail.com | 
 
 ---
 
